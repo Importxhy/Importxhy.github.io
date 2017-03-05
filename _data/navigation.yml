@@ -1,13 +1,15 @@
 # Site navigation links
+- title: Home
+  url: /home/
+
+- title: Tech
+  url: /blog/
+
+- title: Non_Tech
+  url: /non_tech  
 
 - title: About
   url: /about/
-
-- title: Articles
-  url: /articles/
-
-- title: Blog
-  url: /blog/
 
 - title: Search
   url: /search/
