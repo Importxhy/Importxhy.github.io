@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Import_Ocean
 locale: en_US
-description: Describe your website here.
+description: A man can be destroyed, but not defeated.
 logo: site-logo.png
 search: true
 url: https://importxhy.github.io
@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Joy
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
