@@ -1,18 +1,4 @@
 # Site navigation links
-- title: Home
-  url: /home/
 
-- title: Tech
-  url: /tech/
-
-- title: Non_Tech
-  url: /non_tech/ 
-
-- title: About
-  url: /about/
-
-- title: Search
-  url: /search/
-
-- title: Theme Setup
-  url: /theme-setup/
+- title: Projects
+  url: /projects/
